@@ -63,6 +63,8 @@ namespace Linq1HW
                             if ((Boolean)row.ItemArray[i])
                             {
                                 item.SetValue(temp, 1);
+
+
                             }
                             else
                             {
